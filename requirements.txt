@@ -20,5 +20,6 @@ PyLyrics
 hurry.filesize
 #translator
 googletrans
+Pyown
 
 tldextract
